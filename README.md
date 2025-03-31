@@ -1,3 +1,3 @@
 # FREETESTS
 //HELLO WORLD!
-print("hello world")
+print("hello world");
