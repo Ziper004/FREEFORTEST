@@ -1,2 +1,3 @@
 # FREEFORTEST
-HELLO WORLD!
+//HELLO WORLD!
+print("hello world")
